@@ -43,6 +43,8 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
+<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashkan-moradi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
   
 
 <br/>  
@@ -62,8 +64,3 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="75" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" /></a>  
 </div>  
-
-<br/>  
-
-# <div align="center">Github Stats</div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashkan-moradi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
